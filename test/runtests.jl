@@ -2,5 +2,5 @@ using TestJuliaCI
 using Test
 
 @testset "TestJuliaCI.jl" begin
-    # Write your tests here.
+    @test 1==1
 end
